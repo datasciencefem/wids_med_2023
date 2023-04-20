@@ -89,7 +89,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #721f54;
+  background: #007028;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -103,7 +103,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #35707f;
+  background: #f0a63b;
   color: #fff;
 }
 
@@ -126,7 +126,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #721f54;
+  background: #007028;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -209,11 +209,11 @@ h6 {
 --------------------------------------------------------------*/
 .buy-tickets {
   color: rgb(253, 253, 253);
-  background: #721f54;
+  background: #007028;
   padding: 7px 34px;
   margin: 0 0 0 25px;
   border-radius: 50px;
-  border: 2px solid #721f54;
+  border: 2px solid #007028;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   line-height: 1;
@@ -292,7 +292,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #721f54;
+  background-color: #007028;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -386,7 +386,7 @@ h6 {
   display: none;
   line-height: 0;
   transition: 0.5s;
-  background-color: #721f54;
+  background-color: #0b7b33;
 }
 
 @media (max-width: 991px) {
@@ -524,7 +524,7 @@ h6 {
 #hero {
   width: 100%;
   height: auto;
-  background: url(../img/bannerNuevo.jpeg) top center;
+  background: url(../img/4.png) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -697,8 +697,8 @@ h6 {
 
 #hero .about-btn:hover {
   /*background: #f82249;*/
-  background-color: #053120;
-  /*color: rgb(252, 245, 245);*/
+  background-color: #fff;
+  color: #053120;
 }
 
 @-webkit-keyframes pulsate-btn {
@@ -744,7 +744,7 @@ h6 {
 
 #about:before {
   content: "";
-  background: #053120;
+  background: #ededed;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -764,13 +764,13 @@ h6 {
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 10px;
-  color: #fff;
+  color: #053120;
 }
 
 #about p {
   font-size: 14px;
   margin-bottom: 20px;
-  color: #fff;
+  color: #053120;
 }
 
 /*--------------------------------------------------------------
@@ -1705,7 +1705,7 @@ h6 {
 }
 
 #footer .footer-top {
-  background: #053120;
+  background: #007028;
   padding: 20px 0 30px 0;
 }
 
@@ -1755,6 +1755,8 @@ h6 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  position: relative;
+  top: 1rem;
 }
 
 #footer .footer-top .social-links a i {
