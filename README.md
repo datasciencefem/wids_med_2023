@@ -1,8 +1,11 @@
 # wids_med_2023
 
+![Wids](./assets/img/Readme.png)
+
 
 
 ## Descripción del proyecto
+
 Creacion de pagina del evento de WiDS Medellín 2023 que es un evento independiente organizado por la organización WiDS Ambassador de Medellín Colombia como parte de la conferencia anual WiDS Worldwide, el WiDS Datathon, y un estimado de 200 Eventos Regionales WiDS en todo el mundo.
 
 
