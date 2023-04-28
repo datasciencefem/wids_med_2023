@@ -16,10 +16,10 @@ Estos son las embajadoras que apoyaron en la elaboracion de la pagina web de Wid
 
 <table>
   <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78620887?v=4" width="100px;" alt=""/><br /><sub><b>Amelia Perez </b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">Machine Learning Engineer, Data Scientist👩‍💻</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29681419?v=4" width="100px;" alt=""/><br /><sub><b>Oriana Osorio</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">
-    Data Analyst, Data Scientist👩‍💻</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55161289?v=4" width="100px;" alt=""/><br /><sub><b>Rina Plata</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👩‍💻 Web developer</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/yemasu-perez/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78620887?v=4" width="100px;" alt=""/><br /><sub><b>Amelia Perez </b></sub></a><br /><a href="https://www.linkedin.com/in/yemasu-perez/">Data Scientist👩‍💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/oriana-osorio-14a37b56/" title="Rocketseat"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29681419?v=4" width="100px;" alt=""/><br /><sub><b>Oriana Osorio</b></sub></a><br /><a href="https://www.linkedin.com/in/oriana-osorio-14a37b56/" title="Rocketseat" title="Rocketseat">
+    Data Scientist👩‍💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/rina-plata/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55161289?v=4" width="100px;" alt=""/><br /><sub><b>Rina Plata</b></sub></a><br /><a href="https://www.linkedin.com/in/rina-plata/" title="Rocketseat">👩‍💻 Web developer</a></td>
   </tr>
   <tr>
 </table>
