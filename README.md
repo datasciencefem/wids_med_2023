@@ -11,7 +11,7 @@ Creacion de pagina del evento de WiDS Medellín 2023 que es un evento independie
 
 
 ## Contribución
-Estos son las embajadoras que apoyaron en la elaboracion de la pagina web de Wids 2023.
+Estos son las embajadoras que apoyaron en la elaboracion de la pagina web-Wids 2023.
 
 
 <table>
